@@ -16,5 +16,5 @@ spring:
           uri: https://github.com/PolarBookshop/config-repo
           default-label: main
           timeout: 5
-          clone-on-start: false
+          clone-on-start: true
           force-pull: true
